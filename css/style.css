@@ -1,0 +1,33 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 2;
+}
+
+#main {
+  background-color: #eee;
+  text-align: center;
+}
+
+ul {
+  width: 40%;
+  display: inline-block;
+}
+
+li {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.quote-box {
+  width: 40%;
+  margin: auto;
+  text-align: left;
+}
+
+.quote {
+  font-style: italic;
+}
+
+#tribute-link {
+  font-weight: 700;
+}
